@@ -1,0 +1,22 @@
+{
+  "name": "react-native-template-bistech",
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native template for a quick start with TypeScript with some cool configuration.",
+  "files": [
+    "bistechTemplate",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreferi3/react-native-template-bistech.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Andre Feri Saputra <hi@andreferi.me>",
+  "license": "MIT"
+}
